@@ -1,5 +1,6 @@
 #pragma once
 #include <stdint.h>
+#include <stddef.h>
 /*array.h array macros
 arrmax(arr,elems) find maximum
 arrmin(arr,elems) find minimum
