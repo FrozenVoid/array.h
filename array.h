@@ -2,6 +2,7 @@
 #include <stdint.h>
 #include <stddef.h>
 /*array.h array macros
+https://github.com/FrozenVoid/array.h
 arrmax(arr,elems) find maximum
 arrmin(arr,elems) find minimum
 arrfavg(arr,elems) array average(long double)
